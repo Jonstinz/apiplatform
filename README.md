@@ -9,7 +9,7 @@
 + Ant Design Pro V6.0  
 + Ant Design & Procomponents组件库
 + React 18
-+ Umi 4
++ Umi 4  
 后端：
 + Spring Boot
 + Spring Cloud Gateway
